@@ -1,0 +1,14 @@
+.terraform/
+.terraform.lock.hcl
+
+*.tfstate
+*.tfstate.backup
+
+*.zip
+
+test.txt
+
+__pycache__/
+*.pyc
+
+.vs/
